@@ -112,6 +112,12 @@ namespace Ceres.Utilities
         {
             return (float)Math.Sqrt(Norm2(a));
         }
+
+        internal const float eps = 0.001f;
+        public static bool AlmostEqual(Point3f a, Point3f b)
+        {
+            return Math.Abs(a._x - b._x) < eps && Math.Abs(a._y - b._y) < eps && Math.Abs(a._z - b._z) < eps;
+        }
 #endregion
     }
 }

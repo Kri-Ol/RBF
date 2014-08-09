@@ -14,7 +14,7 @@
 
         public static float cubed(float x)
         {
-            return x * x *x;
+            return x * x * x;
         }
 
         public static double cubed(double x)
