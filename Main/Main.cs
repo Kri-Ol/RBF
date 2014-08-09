@@ -110,7 +110,7 @@ namespace Ceres.RBF
             EvaluatorRBF eval = new EvaluatorRBF(points, inout, null /*weights*/);
             eval.Evaluate(points[0]);
 
-            float[] new_weights = eval.weights;
+            float[] new_weights = eval.Weights;
 
             Console.WriteLine("Stored weights vs Computed weights");
             for (int k = 0; k != new_weights.Length; ++k)
