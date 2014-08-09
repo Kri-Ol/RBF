@@ -7,7 +7,7 @@ using Ceres.Utilities;
 namespace Ceres.RBF
 {
     //
-    // code based upon paper G.Turk, J O'Brien "Shape Transformation Using Variational Implicit Functions"
+    // code based upon paper G.Turk, J.O'Brien "Shape Transformation Using Variational Implicit Functions"
     //
     public class EvaluatorRBF : Evaluator
     {
@@ -169,7 +169,7 @@ namespace Ceres.RBF
             _weights = res.ToArray();
         }
 
-        public float[] weights
+        public float[] Weights
         {
             get { return _weights; }
         }
