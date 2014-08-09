@@ -1,0 +1,9 @@
+C:\Users\Oleg\Documents\Visual Studio 14\Projects\RBF\RBF\bin\Debug\RBF.dll
+C:\Users\Oleg\Documents\Visual Studio 14\Projects\RBF\RBF\bin\Debug\RBF.pdb
+C:\Users\Oleg\Documents\Visual Studio 14\Projects\RBF\RBF\bin\Debug\MathNet.Numerics.dll
+C:\Users\Oleg\Documents\Visual Studio 14\Projects\RBF\RBF\bin\Debug\Utilities.dll
+C:\Users\Oleg\Documents\Visual Studio 14\Projects\RBF\RBF\bin\Debug\Utilities.pdb
+C:\Users\Oleg\Documents\Visual Studio 14\Projects\RBF\RBF\bin\Debug\MathNet.Numerics.pdb
+C:\Users\Oleg\Documents\Visual Studio 14\Projects\RBF\RBF\obj\Debug\RBF.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\Documents\Visual Studio 14\Projects\RBF\RBF\obj\Debug\RBF.dll
+C:\Users\Oleg\Documents\Visual Studio 14\Projects\RBF\RBF\obj\Debug\RBF.pdb
